@@ -33,10 +33,11 @@ h1 {
     color: white;
     border-radius: 20px;
     margin-top: 10px;
-    width: 150px;
-    padding: 35px;
+    width: 200px;
+    padding: 45px;
     position: absolute;
     left: 29vw;
+    font-size: 40px;
 }
 
 .figura {
